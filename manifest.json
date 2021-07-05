@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Save Page URL",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "img/icon.jpg"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
